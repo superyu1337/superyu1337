@@ -1,5 +1,5 @@
 Hey there!
-Im Janek, I'm 16 years old and I'm programming as a hobby.
+Im Janek, I'm 17 years old and I'm programming as a hobby.
 
 <img src="Thurston.gif"/>
 
