@@ -1,10 +1,20 @@
-Hey there!
-Im Janek, I'm 17 years old and I'm programming as a hobby.
 
-<img src="Thurston.gif"/>
+### Hello there, I'm Janek - aka [superyu1337][website] 👋 
+#### I'm a 17 years old hobbyist developer
 
-Want to add me on [discord](https://dsc.bio/superyu1337/ "discord") or [steam](https://steamcommunity.com/id/superyu1337/ "steam")?
+- 🔭 I'm currently learning rust 
+- ⚡ Fun fact: I love to play drums and listen to music
 
+### Contact me
+- development@superyu.xyz
+- [youtube]
+- [steam]
 
+---
 
-[![HitCount](http://hits.dwyl.com/Superyu1337/{project}.svg)](http://hits.dwyl.com/Superyu1337/{project})
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=superyu1337&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superyu1337&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[website]: https://superyu.xyz
+[youtube]: https://www.youtube.com/superyu1337
+[steam]: https://steamcommunity.com/id/superyu1337
