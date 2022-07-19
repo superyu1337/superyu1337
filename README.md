@@ -1,6 +1,6 @@
 
 ### Hello there, I'm Janek - aka [superyu1337][website] 👋 
-#### I'm a 17 years old hobbyist developer
+#### I'm a 18 years old hobbyist developer
 
 - 🔭 I'm currently learning rust 
 - ⚡ Fun fact: I love to play drums and listen to music
