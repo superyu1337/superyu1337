@@ -1,8 +1,9 @@
 
 ### Hello there, I'm Janek - aka [superyu1337][website] 👋 
-#### I'm a 18 years old hobbyist developer
+#### I'm a 18 years old hobbyist developer and media encoding enthusiast
 
 - 🔭 I'm currently learning rust 
+- 🎬 My media is being encoded in AV1 😎
 - ⚡ Fun fact: I love to play drums and listen to music
 
 ### Contact me
