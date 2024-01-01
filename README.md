@@ -4,7 +4,6 @@
 
 - 🔭 I'm currently learning rust 
 - 🎬 My media is being encoded in AV1 😎
-- ⚡ Fun fact: I love to listen to music
 
 ### Contact me
 - development@superyu.xyz
