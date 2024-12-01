@@ -1,6 +1,6 @@
 
 ### Hello there, I'm Janek - aka [superyu1337][website] 👋 
-#### I'm a 19 years old hobbyist developer and media encoding enthusiast
+#### I'm a 20 year old hobbyist developer and media encoding enthusiast
 
 - 🔭 I'm currently learning rust 
 - 🎬 My media is being encoded in AV1 😎
@@ -9,7 +9,7 @@
 - development@superyu.xyz
 - [youtube]
 - [steam]
-
+- [gitlab]
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=superyu1337&show_icons=true&theme=dark)
@@ -18,3 +18,4 @@
 [website]: https://superyu.xyz
 [youtube]: https://www.youtube.com/superyu1337
 [steam]: https://steamcommunity.com/id/superyu1337
+[gitlab]: https://gitlab.com/janek.s
