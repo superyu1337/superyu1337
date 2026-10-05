@@ -1,6 +1,6 @@
 # ⚠️ NOTICE
 
-> Due to the whole AI and GitHub situation that has been an ongoing issue for months or years at this point, im moving all my stuff over to [Codeberg](https://codeberg.org).
+> Due to the whole AI and GitHub situation that has been an ongoing issue for months or years at this point, im moving most of my stuff over to [Codeberg](https://codeberg.org).
 > You will be able to find me here: [justash](https://codeberg.org/justash)
 
 # Hey there!
