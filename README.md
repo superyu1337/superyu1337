@@ -1,5 +1,10 @@
+# ⛔️ NOTICE
+
+> Due to the whole AI and GitHub situation that has been an ongoing issue for months or years at this point, im moving all my stuff over to [Codeberg](https://codeberg.org).
+> You will be able to find me here: [justash](https://codeberg.org/justash)
+
 # Hey there!
-Welcome to my Codeberg profile!  
+Welcome to my GitHub profile!  
 I'm Ash, a CS student from <img src="https://cdn-icons-png.flaticon.com/128/16022/16022134.png" width="13"> **Oldenburg, Germany.**
 
 
